@@ -4,17 +4,19 @@
 tugas 2 menambahkan fitur untuk menghitung jarak dari lokasi pengguna ketitik tetap(PNB) secara real-time saat pelacakan aktif
 
 ## fitur utama ##
-1. Menampilkan lokasi pengguna(latitude& longitude) secara akurat
-2. Menampilkan alamat lengkap berdasarkan koordinat dengan bantuan geocoding.
-3. Melacak pergerakan lokasi secara real-time menggunakan stream
-4. Menghitung jarak ketitik tetap(PNB) dan menampilkannya dalam satuan meter
-5. tombol kontrol:
-    1. Dapatkan lokasi sekarang
-    2. mulai lacak
-    3. henti lacak
+1. Tampil peta dengan OpenStreetmap menggunakan flutter_map.
+2. Mengambil lokasi saat ini dengan geolocator 
+3. Reverse geocoding koordinat alamat dengan geocoding
+4. long press dipeta untuk menambah catatan lokasi
+5. Menampilkan marker pada semua lokasi yang sudah disimpan.
 
-## titik tetap PNB ##
-Lokasi acuan untuk tugas ini adalah politeknik negeri banyuwangi (PNB)
+## teknologi yang digunakan ##
+package:
+1. geolocator: ambil koordinat GPS
+2. geocoding: ubah koordinat jadi alamat
+3. flutter_map: menampilkan peta OSM
+4. latlong2: tipe data latlang untuk koodinat
 
 Hasil Tampilan 
+
 
