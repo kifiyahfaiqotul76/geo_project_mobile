@@ -1,7 +1,8 @@
 ** Nama : Siti Faiqotul Kifiyah **
 ** Nim  : 362458302021 **
 
-tugas 2 menambahkan fitur untuk menghitung jarak dari lokasi pengguna ketitik tetap(PNB) secara real-time saat pelacakan aktif
+geo_catatan
+digunakan untuk melihat peta openstreetmap dan menemukan lokasi pengguna juga menandai lokasi menggunakan long press dan menyimpan catatan + alamat otomatis
 
 ## fitur utama ##
 1. Tampil peta dengan OpenStreetmap menggunakan flutter_map.
