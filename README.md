@@ -18,5 +18,9 @@ package:
 4. latlong2: tipe data latlang untuk koodinat
 
 Hasil Tampilan 
+![tampilan1](https://github.com/user-attachments/assets/0097e25c-6399-41a3-9dcd-72353ba47911)
+![tampilan2](https://github.com/user-attachments/assets/58ccad8a-afb3-419c-a354-293c253d165b)
+
+
 
 
